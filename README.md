@@ -1,4 +1,4 @@
-# Emerald Proxy
+# Browser
 
 ## Instalation
 
